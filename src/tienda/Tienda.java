@@ -27,7 +27,7 @@ public class Tienda {
         System.out.println("Está en el área de " + edwin.getArea());
         System.out.println(pablo.getNombre() + " es el gerente.");
         System.out.println("Y tiene " + pablo.getNumSubalternos() + "subalternos.");
-
+        
 
     }
     
