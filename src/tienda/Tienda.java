@@ -13,6 +13,8 @@ public class Tienda {
     /**
      * @param args the command line arguments
      */
+    
+    
     public static void main(String[] args) {
         Persona roy = new Persona("roy", 19);
         Cliente joan = new Cliente("Joan", 18, 10.0, 12345, 1);
